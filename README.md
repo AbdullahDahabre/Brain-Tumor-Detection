@@ -64,3 +64,10 @@ I used the original structure for data loading and preprocessing, then built and
 - Original Notebook Author: [Ruslan Klymentiev](https://www.kaggle.com/ruslanklymentiev)
 - Dataset from: [Navoneel Chakrabarty](https://www.kaggle.com/navoneel)
 - Adapted and extended by: **Abdullah Dahabre**
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+Parts of the original notebook by [Ruslan Klymentiev](https://www.kaggle.com/ruslanklymentiev) are used with proper attribution for educational purposes only.
